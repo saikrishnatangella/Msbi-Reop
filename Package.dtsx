@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{61E9E441-A426-41FA-9D43-009820268707}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{21E5E0A2-6590-45FB-9979-2FC50116BCC7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -67,7 +67,7 @@
         <NodeLayout
           Size="170,42"
           Id="Package\Execute SQL Task"
-          TopLeft="355,128" />
+          TopLeft="134,134" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
